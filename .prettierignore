@@ -1,0 +1,6 @@
+# Vendor directories
+/vendor
+/wp-content
+
+# Generated files
+CHANGELOG.md

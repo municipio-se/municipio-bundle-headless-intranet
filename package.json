@@ -1,0 +1,14 @@
+{
+  "name": "municipio-bundle-headless-intranet",
+  "version": "0.1.0",
+  "description": "Bundled plugins for a headless intranet setup of Wordpress with Municipio",
+  "repository": "git@github.com:municipio-se/municipio-bundle-headless-intranet.git",
+  "license": "AGPL",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  },
+  "scripts": {
+    "format": "prettier --write '**/*.{js,json,md,yml}'"
+  }
+}

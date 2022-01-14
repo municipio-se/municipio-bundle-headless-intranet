@@ -21,7 +21,7 @@
     "sort-packages": true
   },
   "require": {
-    "municipio/municipio-bundle-headless-intranet": "^9.0",
+    "municipio/municipio-bundle-headless": "^9.0",
     "municipio/municipio-intranet-gatsby": "^0.1"
   }
 }

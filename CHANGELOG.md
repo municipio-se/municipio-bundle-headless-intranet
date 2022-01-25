@@ -1,3 +1,5 @@
+## [1.0.0](https://github.com/municipio-se/municipio-bundle-headless-intranet/compare/v0.1.1...v1.0.0) (2022-01-25)
+
 ### [0.1.1](https://github.com/municipio-se/municipio-bundle-headless-intranet/compare/v0.1.0...v0.1.1) (2022-01-14)
 
 
